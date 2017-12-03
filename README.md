@@ -93,5 +93,5 @@ T+2: 01-10, 2d
 ## 技术路线图
 - 2017.12.XX 正式发布NNS技术白皮书
 - xxxx.xx.xx 完成原理测试
-- xxxx.xx.xx NNS服务上线测试网，发行NNSV
-- xxxx.xx.xx NNS服务上线正是网，发行NNSV
+- xxxx.xx.xx NNS服务上线测试网，发行测试网NNSV
+- xxxx.xx.xx NNS服务上线正式网，发行正式网NNSV
